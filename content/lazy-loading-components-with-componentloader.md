@@ -13,6 +13,6 @@ categories = [
 ]
 +++
 
-Check out my post <a href="http://moduscreate.com/lazy-loading-components-with-componentloader/" target="_blank">Lazy Loading Components with ComponentLoader</a> on <a href="http://moduscreate.com" target="_blank">ModusCreate</a> to find out how to use Sencha `ComponentLoader` to build lazy loading Components.
+Check out my post <a href="http://moduscreate.com/lazy-loading-components-with-componentloader/" target="_blank">Lazy Loading Components with ComponentLoader</a> on <a href="http://moduscreate.com" target="_blank">ModusCreate</a> to find out how to use Sencha `ComponentLoader` to build lazy loading Components or Views.
 <!--more-->
 
