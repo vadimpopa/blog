@@ -8,7 +8,9 @@ tags = [
     "extjs"
 ]
 categories = [
-    "AngularJS1"
+    "JavaScript",
+    "AngularJS",
+    "Ext JS"
 ]
 +++
 
