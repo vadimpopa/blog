@@ -5,10 +5,12 @@ description = ""
 tags = [
     "grid",
     "model",
-    "extjs4"
+    "extjs4",
+    "extjs"
 ]
 categories = [
-    "ExtJS 4",
+    "Ext JS",
+    "Sencha",
     "Javascript"
 ]
 +++

@@ -4,17 +4,19 @@ title = "NVD3 and Raphael as alternative charting libs for Sencha Touch"
 description = ""
 tags = [
     "javascript",
-    "Charts",
+    "charts",
     "mobile",
-    "Sencha Touch 2"
+    "sencha touch 2",
+    "nvd3",
+    "raphael"
 ]
 categories = [
-    "charts",
-    "d3js",
-    "mobile",
-    "nvd3",
-    "raphael",
-    "sencha touch 2"
+    "Charts",
+    "D3 JS",
+    "Mobile",
+    "Sencha Touch",
+    "Sencha",
+    "JavaScript"
 ]
 +++
 Below my short journey in taking a look to NVD3 and Raphael as alternative charting libraries for <a title="Sencha Touch 2" href="http://www.sencha.com/products/touch" target="_blank">Sencha Touch</a>(ST). ST has a powerful and nice charting library which is included as a part of Touch (available as GPLv3 or as a part of Sencha Complete and Complete: Team). Yet I&#8217;ve wanted to try other charts libs with a more flexible license which will allow me to integrate them easily in a ST app and develop a simple line chart ST component.

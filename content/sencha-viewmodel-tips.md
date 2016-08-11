@@ -6,11 +6,13 @@ tags = [
     "javascript",
     "sencha",
     "extjs",
+    "extjs6",
     "viewmodel"
 ]
 categories = [
     "Sencha",
-    "Javascript"
+    "JavaScript",
+    "Ext JS"
 ]
 +++
 

@@ -10,7 +10,8 @@ tags = [
     "link"
 ]
 categories = [
-    "AngularJS1"
+    "AngularJS1",
+    'JavaScript'
 ]
 +++
 

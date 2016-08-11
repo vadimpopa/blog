@@ -11,7 +11,9 @@ tags = [
 ]
 categories = [
     "Mobile",
-    "Sencha Touch 2"
+    "Sencha Touch",
+    "Sencha",
+    "JavaScript"
 ]
 +++
 

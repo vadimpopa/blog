@@ -11,8 +11,9 @@ tags = [
 ]
 categories = [
     "Charts",
-    "Javascript",
-    "ExtJS 4"
+    "Sencha",
+    "JavaScript",
+    "Ext JS"
 ]
 +++
 

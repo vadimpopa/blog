@@ -5,11 +5,13 @@ description = "Explaining Sencha ExtJS lazy loading Components with ComponentLoa
 tags = [
     "javascript",
     "sencha",
-    "extjs"
+    "extjs",
+    "extjs6"
 ]
 categories = [
     "Sencha",
-    "Javascript"
+    "JavaScript",
+    "Ext JS"
 ]
 +++
 

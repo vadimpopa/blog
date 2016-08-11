@@ -9,8 +9,8 @@ tags = [
     "onblur"
 ]
 categories = [
-    "AngularJS1",
-    "Javascript"
+    "AngularJS",
+    "JavaScript"
 ]
 +++
 Often is needed to close a popup when the user clicks anywhere else in the page but not on popup. There are many workarounds for such functionality, including one of the simplest which is to give to the `div` the `tabindex` attribute and use `onblur` event.

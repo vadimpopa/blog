@@ -5,12 +5,15 @@ description = "Split large angularjs controllers using the mixin pattern and the
 tags = [
     "angularjs",
     "controller",
-    "mixin"
+    "mixin",
+    'javascript',
+    'extjs4',
+    'extjs'
 ]
 categories = [
-    "AngularJS1",
-    "Javascript",
-    "ExtJS 4"
+    "AngularJS",
+    "JavasCript",
+    "Ext JS"
 ]
 +++
 

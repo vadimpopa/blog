@@ -6,7 +6,9 @@ tags = [
     "extjs4"
 ]
 categories = [
-    "ExtJS 4"
+    "Sencha",
+    "JavaScript",
+    "Ext JS"
 ]
 +++
 

@@ -9,8 +9,9 @@ tags = [
     "SQLite"
 ]
 categories = [
-    "Sencha Touch 2",
-    "Javascript"
+    'Sencha Touch',
+    'JavaScript',
+    'Sencha'
 ]
 +++
 

@@ -3,10 +3,15 @@ date = "2013-04-02 22:59:32+03:00"
 title = "Inside Aymap, an ExtJS4 web application, part 2"
 tags = [
     "javascript",
-    "extjs4"
+    "extjs4",
+    "sencha",
+    "javascript",
+    "extjs"
 ]
 categories = [
-    "ExtJS 4"
+    "Sencha",
+    "JavaScript",
+    "Ext JS"
 ]
 +++
 
