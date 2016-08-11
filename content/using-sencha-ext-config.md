@@ -1,6 +1,5 @@
 +++
 date = "2016-08-11T11:53:43+03:00"
-draft = true
 title = "Using Sencha Ext.Config"
 description = "Vadim Popa explains on sencha.com/blog how to use the latest features of Ext.Config added in ExtJS 6"
 tags = [
